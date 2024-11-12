@@ -1,1 +1,1 @@
-# wengardiamleviossa
+The house price prediction problem is a regression task in machine learning where the goal is to predict the price of a house based on various features. This task is commonly used to understand how different factors influence property values and to build models that help in pricing real estate.
